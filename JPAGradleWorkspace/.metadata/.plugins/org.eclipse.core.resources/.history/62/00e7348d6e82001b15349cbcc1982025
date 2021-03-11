@@ -1,0 +1,5 @@
+package com.cg.jpa.util;
+
+public class JPAUtil {
+
+}

@@ -1,0 +1,5 @@
+package com.cg.jpa.entity;
+
+public class Author {
+
+}

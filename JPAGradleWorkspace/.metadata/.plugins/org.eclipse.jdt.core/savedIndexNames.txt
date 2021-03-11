@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+C:\Users\91799\Desktop\JPAGradleWorkspace\.metadata\.plugins\org.eclipse.jdt.core
+3353322368.index
+837316826.index
+2274242988.index
+3193238073.index
+4177263185.index
+2319719401.index
+450124234.index
+457274717.index
+908609609.index
+444926242.index
+1402819094.index
+3772298165.index
+3477384512.index
+3124532767.index
+3211978164.index
+3492117585.index
+2425843024.index
+4250200469.index
+2956524370.index
+3200654966.index
+339676031.index
